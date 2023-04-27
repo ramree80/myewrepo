@@ -6,6 +6,7 @@ age = 30
 jkhjhjkxzhcjk
 jhjhjjkhjk
 jkjkjlkkjl
+هذا هو التعديل
 '''
 print(f"{Firstname} {Second_name} And Age is {age}")
 
