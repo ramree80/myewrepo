@@ -7,6 +7,7 @@ jkhjhjkxzhcjk
 jhjhjjkhjk
 jkjkjlkkjl
 هذا هو التعديل
+he is trust
 '''
 print(f"{Firstname} {Second_name} And Age is {age}")
 
